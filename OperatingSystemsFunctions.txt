@@ -1,2 +1,3 @@
 Memory Management is an important function of the operating system. It ensures the accuracy and consistency of data being imported from a secondary memory to the main memory. It determines which process gets the memory at a certain time. 
 Booting is started by turning your device on. Once the device is on booting is the process of starting the devices operating system. It checks the device and makes sure that it is working properly. 
+Data security is an operating system that protects the data stored on the computer. It prevents illegal use or having data being deleted. It also makes sure that the data is not accessible by unauthorized parties or from anyone hacking into the system. Data security ensures privacy and protecting the data in the computer. 
